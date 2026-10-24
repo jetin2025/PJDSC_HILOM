@@ -1,0 +1,9 @@
+streamlit>=1.50   # width="stretch" on st.dataframe / st.plotly_chart needs a recent release
+pandas
+pyarrow
+plotly
+numpy
+simpy
+pydeck
+groq
+scipy
